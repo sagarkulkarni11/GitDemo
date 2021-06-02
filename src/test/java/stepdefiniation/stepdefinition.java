@@ -26,8 +26,6 @@ public class stepdefinition {
   		driver.quit();   
   	
   		System.out.println("Google Printed");
-		
-		System.out.println("offshore commit 2");
     
     }
 
@@ -105,7 +103,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\sagar\\eclipse-workspa
   		
   		WebDriver driver= new ChromeDriver();
   		
-  		driver.get("https://www.yahoo.com");
+  		driver.get("https://www.youtube.com");
   		Thread.sleep(2000);
 
   		driver.quit();   

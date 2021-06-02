@@ -26,6 +26,10 @@ public class stepdefinition {
   		driver.quit();   
   	
   		System.out.println("Google Printed");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 258094fddb6baf4bd5bd2dd9283925c7ae8ff797
     
     }
 
